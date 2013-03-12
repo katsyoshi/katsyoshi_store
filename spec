@@ -6,6 +6,6 @@ depends:
     - mikustore
 version: '1.0'
 author: katsyoshi
-name: toshi_a's store
+name: katsyoshi's store
 description: toshi_aの書いたmikutterプラグインをみっくストアに追加するプラグイン
 repository: git://github.com/katsyoshi/katsyoshi_store.git
