@@ -1,10 +1,10 @@
 * なにこれ
-  みっくストアのプラグイン一覧に、私（toshi_a）のプラグインを追加するプラグインです。
+  みっくストアのプラグイン一覧に、私（katsyoshi）のプラグインを追加するプラグインです。
 
 * インストール方法
   以下のコマンドを実行すればインストールできます。
 
-  : $ mkdir ~/.mikutter/plugin && git clone git://github.com/toshia/toshi_a_store.git ~/.mikutter/plugin/toshi_a_store
+  : $ mkdir ~/.mikutter/plugin && git clone git://github.com/katsyoshi/katsyoshi_store.git ~/.mikutter/plugin/katsyoshi_store
 
 * その他
   非公式リポジトリみたいなので皆が好き勝手にラインナップを増やしていけるようにしたほうが繁栄するんじゃないかと思ってやってみました。まだ実験中ですが、興味がある人はforkして適当にやってみてください。
